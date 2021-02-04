@@ -1,0 +1,13 @@
+.navbar {
+  width: 100%;
+  background: black;
+  height: 80px;
+}
+
+.menu-icon {
+  color: white;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
